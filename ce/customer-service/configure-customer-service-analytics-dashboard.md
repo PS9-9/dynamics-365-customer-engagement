@@ -62,7 +62,7 @@ Review the following prerequisites before configuring the supervisor dashboard:
 
     a. Sign in to Dynamics 365 Customer Service.
 
-    b. Go to **Settings** and then select **Developer Resources**.  
+    b. Go to **Settings** and then select **Customization** then select **Developer Resources**.  
 
     c. Find the Data URL under **Service Root URL**. 
 
